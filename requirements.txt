@@ -1,0 +1,13 @@
+fastapi
+python-dotenv
+uvicorn
+requests
+PyMuPDF
+pandas
+torch
+numpy
+Pillow
+tqdm
+kdbai_client
+google-generativeai
+git+https://github.com/facebookresearch/ImageBind.git
